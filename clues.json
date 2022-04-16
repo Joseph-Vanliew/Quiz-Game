@@ -1,0 +1,99 @@
+{
+  "clues": [
+    {
+      "id": 1,
+      "answer": "sheep",
+      "question": "Let's all flock to read Psalm 95, in which humans are compared to these animals",
+      "value": 200,
+      "categoryId": 1,
+      "gameId": 1,
+      "invalidCount": 0,
+      "category": {
+        "id": 1,
+        "title": "THE OLD TESTAMENT",
+        "canon": true
+      },
+      "game": {
+        "aired": "2004-09-06",
+        "canon": true
+      },
+      "canon": true
+    },
+    {
+      "id": 2,
+      "answer": "Sean Combs",
+      "question": "The rap on him is he's sometimes \"Puffy\"",
+      "value": 200,
+      "categoryId": 2,
+      "gameId": 1,
+      "invalidCount": 0,
+      "category": {
+        "id": 2,
+        "title": "SEAN SONG",
+        "canon": true
+      },
+      "game": {
+        "aired": "2004-09-06",
+        "canon": true
+      },
+      "canon": true
+    },
+    {
+      "id": 3,
+      "answer": "Los Angeles",
+      "question": "In the 1980s this city passed Chicago as the USA's second most populous",
+      "value": 200,
+      "categoryId": 3,
+      "gameId": 1,
+      "invalidCount": 0,
+      "category": {
+        "id": 3,
+        "title": "CITY WALK",
+        "canon": true
+      },
+      "game": {
+        "aired": "2004-09-06",
+        "canon": true
+      },
+      "canon": true
+    },
+    {
+      "id": 4,
+      "answer": "Chicken of the Sea",
+      "question": "\"Ask any mermaid you happen to see, 'What's the best tuna?'\", this brand",
+      "value": 200,
+      "categoryId": 4,
+      "gameId": 1,
+      "invalidCount": 0,
+      "category": {
+        "id": 4,
+        "title": "SLOGANEERING",
+        "canon": true
+      },
+      "game": {
+        "aired": "2004-09-06",
+        "canon": true
+      },
+      "canon": true
+    },
+    {
+      "id": 5,
+      "answer": "magazines",
+      "question": "Many people have become familiar with \"Shape\", \"Ski\" & \"Savoy\", which are these, in doctors' waiting rooms",
+      "value": 200,
+      "categoryId": 5,
+      "gameId": 1,
+      "invalidCount": 0,
+      "category": {
+        "id": 5,
+        "title": "ROOM",
+        "canon": true
+      },
+      "game": {
+        "aired": "2004-09-06",
+        "canon": true
+      },
+      "canon": true
+    }
+  ]
+}
