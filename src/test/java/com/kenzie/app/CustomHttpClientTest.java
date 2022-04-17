@@ -39,7 +39,7 @@ public class CustomHttpClientTest {
                     .setBody(GET_CLUES_RESPONSE)
                     .setResponseCode(200));
 
-            CustomHttpClient restClient = new CustomHttpClient();
+            CluesHttpClient restClient = new CluesHttpClient();
 
             String result = restClient.sendGET(this.mockWebServer.url(URL_ALL).toString());
 
