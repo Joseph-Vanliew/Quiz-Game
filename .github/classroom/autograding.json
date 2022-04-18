@@ -1,16 +1,6 @@
 {
   "tests": [
     {
-      "name": "Capstone - MainTest",
-      "setup": "",
-      "run": "gradle test --tests MainTest",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": null
-    },
-    {
       "name": "Capstone - CustomHttpClientTest",
       "setup": "",
       "run": "gradle test --tests CustomHttpClientTest",
